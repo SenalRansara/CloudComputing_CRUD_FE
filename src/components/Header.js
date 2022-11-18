@@ -6,9 +6,8 @@ function Header() {
         <div className="header-basic">
             <header>
                 <div className="row">
-                    <div className="header-col">
-                        <h1>Online Book Store</h1>
-                        <img className="headerLogo"  width="400px" height="150px" alt="logo" />
+                    <div className="header-col" style={{marginLeft : '600px', marginTop : '30px'}}>
+                        <h1 style={{color : 'white'}}>Online Book Store</h1>
                     </div>
                 </div>
             </header>
